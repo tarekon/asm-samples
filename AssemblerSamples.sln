@@ -5,22 +5,22 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{F3516379-1B5A-4953-91BF-39462F64063D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strlen", "Strlen\Strlen.vcxproj", "{37F44477-6C99-4617-B0DD-44619B0A9147}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F3516379-1B5A-4953-91BF-39462F64063D}.Debug|x64.ActiveCfg = Debug|x64
-		{F3516379-1B5A-4953-91BF-39462F64063D}.Debug|x64.Build.0 = Debug|x64
 		{F3516379-1B5A-4953-91BF-39462F64063D}.Debug|x86.ActiveCfg = Debug|Win32
 		{F3516379-1B5A-4953-91BF-39462F64063D}.Debug|x86.Build.0 = Debug|Win32
-		{F3516379-1B5A-4953-91BF-39462F64063D}.Release|x64.ActiveCfg = Release|x64
-		{F3516379-1B5A-4953-91BF-39462F64063D}.Release|x64.Build.0 = Release|x64
 		{F3516379-1B5A-4953-91BF-39462F64063D}.Release|x86.ActiveCfg = Release|Win32
 		{F3516379-1B5A-4953-91BF-39462F64063D}.Release|x86.Build.0 = Release|Win32
+		{37F44477-6C99-4617-B0DD-44619B0A9147}.Debug|x86.ActiveCfg = Debug|Win32
+		{37F44477-6C99-4617-B0DD-44619B0A9147}.Debug|x86.Build.0 = Debug|Win32
+		{37F44477-6C99-4617-B0DD-44619B0A9147}.Release|x86.ActiveCfg = Release|Win32
+		{37F44477-6C99-4617-B0DD-44619B0A9147}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

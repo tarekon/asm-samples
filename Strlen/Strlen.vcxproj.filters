@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="Main.asm">
+    <None Include="Main.asm">
       <Filter>Source Files</Filter>
-    </CustomBuild>
+    </None>
   </ItemGroup>
 </Project>
