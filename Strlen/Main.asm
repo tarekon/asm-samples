@@ -11,8 +11,8 @@ ExitProcess EQU _ExitProcess@4
 
 .code
 strlen proc
-	mov ebp, esp
 	push ebp
+	mov ebp, esp
 	push edi
 	push ecx
 
